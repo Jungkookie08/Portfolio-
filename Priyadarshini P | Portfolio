@@ -1,0 +1,149 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://grand-toffee-b94e2b.netlify.app/
+Subject: Priyadarshini P | Portfolio
+Date: Mon, 10 Mar 2025 09:57:33 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--VMLVMNWMbUbYYnqvoeCRLqn7nNJ2nlq08s6GIGMZLI----"
+
+
+------MultipartBoundary--VMLVMNWMbUbYYnqvoeCRLqn7nNJ2nlq08s6GIGMZLI----
+Content-Type: text/html
+Content-ID: <frame-862EE70EB84C75D0DF98278AAEC933C8@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://grand-toffee-b94e2b.netlify.app/
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Priyadarshini P | Portfolio</title>
+    <link rel="stylesheet" href="https://grand-toffee-b94e2b.netlify.app/styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="https://grand-toffee-b94e2b.netlify.app/#home" class="active">Home</a></li>
+                <li><a href="https://grand-toffee-b94e2b.netlify.app/#about" class="">About</a></li>
+                <li><a href="https://grand-toffee-b94e2b.netlify.app/#skills" class="">Skills</a></li>
+                <li><a href="https://grand-toffee-b94e2b.netlify.app/#education" class="">Education</a></li>
+                <li><a href="https://grand-toffee-b94e2b.netlify.app/#experience">Experience</a></li>
+                <li><a href="https://grand-toffee-b94e2b.netlify.app/#projects">Projects</a></li>
+                <li><a href="https://grand-toffee-b94e2b.netlify.app/#certifications">Certifications</a></li>
+                <li><a href="https://grand-toffee-b94e2b.netlify.app/#contacts">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="home">
+        <h1>Welcome to My Portfolio</h1>
+        <p>Explore my work, skills, and experiences.</p>
+    </section>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Passionate about advanced computer science and adept at motivating myself and others. Looking for an entry-level position in a dynamic organization where my knowledge of web development and coding will contribute to achieving the company’s goals while also ensuring my personal growth.</p>
+    </section>
+    
+    <section id="skills">
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>Java, C Programming, JavaScript, Python Scripting</li>
+            <li>HTML5, XML</li>
+            <li>React, Node.js</li>
+            <li>Hardware-in-the-Loop (HIL) Systems</li>
+            <li>ECU Testing, CANFlash, INCA, Trace32, CANoe, ControlDesk</li>
+        </ul>
+        <h2>Soft Skills</h2>
+        <ul>
+            <li>Good Communication</li>
+            <li>Leadership</li>
+            <li>Teamwork</li>
+            <li>Problem Solving</li>
+            <li>Time Management</li>
+        </ul>
+    </section>
+    
+    <section id="education">
+        <h2>Education</h2>
+        <p><strong>Bachelor of Technology in Computer Science and Engineering</strong></p>
+        <p><strong>Sri Krishna College of Engineering and Technology</strong> (2020 - 2024) | CGPA: 8.80</p>
+    </section>
+    
+    <section id="experience">
+        <h2>Experience</h2>
+        <p><strong>Software Intern - Valeo, Navalur, Chennai</strong> (Oct 2023 - Sept 2024)</p>
+        <ul>
+            <li>Gained extensive experience in module and unit testing.</li>
+            <li>Conducted Klockwork and safety check analysis.</li>
+            <li>Developed an automation solution using App Script and Python to generate reports.</li>
+        </ul>
+    </section>
+    
+    <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li>Mini Project - Traveling App</li>
+            <li>Augmented and Virtual Reality in Elementary and Primary School</li>
+            <li>Personal Identity Security System using Blockchain</li>
+        </ul>
+    </section>
+    
+    <section id="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li>NPTEL - Developing Soft Skills and Personality</li>
+            <li>NPTEL - Ethics in Engineering</li>
+            <li>Coding Ninjas - Introduction to Python</li>
+            <li>AWS - Data Analytics</li>
+            <li>Pega - System Architect</li>
+        </ul>
+    </section>
+    
+    <section id="contacts">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:ppriyadarshini200285@gmail.com">ppriyadarshini200285@gmail.com</a></p>
+        <p>Phone: +91-9597856059</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/priyad-p-413958219/" target="_blank">linkedin.com/in/priyad-p</a></p>
+    </section>
+    
+    
+
+
+</body></html>
+------MultipartBoundary--VMLVMNWMbUbYYnqvoeCRLqn7nNJ2nlq08s6GIGMZLI----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://grand-toffee-b94e2b.netlify.app/styles.css
+
+@charset "utf-8";
+
+body { font-family: Arial, sans-serif; margin: 0px; padding: 0px; background-color: rgb(244, 244, 244); color: rgb(51, 51, 51); }
+
+header { background: rgb(51, 51, 51); padding: 15px 0px; position: fixed; width: 100%; top: 0px; left: 0px; z-index: 1000; }
+
+nav ul { list-style: none; text-align: center; padding: 0px; }
+
+nav ul li { display: inline; margin: 0px 15px; }
+
+nav ul li a { text-decoration: none; color: white; font-size: 18px; padding: 10px; transition: 0.3s; }
+
+nav ul li a:hover { color: rgb(244, 180, 0); }
+
+section { padding: 100px 20px; text-align: center; max-width: 800px; margin: 80px auto; background: white; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 10px; border-radius: 10px; }
+
+h1, h2 { color: rgb(68, 68, 68); }
+
+#skills ul { list-style: none; padding: 0px; }
+
+#skills li { background: rgb(244, 180, 0); color: white; display: inline-block; padding: 8px 12px; margin: 5px; border-radius: 5px; }
+
+#contacts p { font-size: 18px; }
+
+@media (max-width: 768px) {
+  nav ul { padding: 0px; }
+  nav ul li { display: block; margin: 10px 0px; }
+  section { padding: 80px 15px; }
+}
+------MultipartBoundary--VMLVMNWMbUbYYnqvoeCRLqn7nNJ2nlq08s6GIGMZLI------
